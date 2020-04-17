@@ -1,1 +1,1 @@
-THIS REPO IS NOT MIGRATED TO https://github.com/RedHat-Middleware-Workshops/dg8-workshop
+THIS REPO IS NOW MIGRATED TO https://github.com/RedHat-Middleware-Workshops/dg8-workshop
